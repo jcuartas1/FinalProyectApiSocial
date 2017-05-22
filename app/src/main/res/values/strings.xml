@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Proyecto Final Api Social</string>
+
+    <string name="facebook_app_id">457873974558046</string>
+
+    <string name="titulo_vista_general">Bienvenido !!!</string>
+
+    <string name="id_banner_anuncions">ca-app-pub-8638985907398093/3169631366</string>
+</resources>
